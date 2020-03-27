@@ -1,5 +1,10 @@
 package Tree;
 
+/*
+Runtime: 0 ms, faster than 100.00% of Java online submissions for Merge Two Binary Trees.
+Memory Usage: 41.7 MB, less than 22.22% of Java online submissions for Merge Two Binary Trees.
+ */
+
 public class MergeTwoBinaryTrees_617 {
 
   public static void main(String[] args) {

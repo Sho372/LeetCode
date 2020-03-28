@@ -14,7 +14,7 @@
 | Stack | `0` |
 | Backtracking | `0` |
 | Greedy | `0` |
-| Bit Manipulation | `0` |
+| Bit Manipulation | `1` |
 | Two Pointers | `0` |
 | Heap | `0` |
 | Dynamic Programming | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(1/100)` → `Easy 2`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(3/100)` → `Easy 3`--`Medium 0`--`Hard 0`
 
 - :sunny: good
 - :cloud: soso
@@ -33,4 +33,4 @@
 - Easy
     - [617. Merge Two Binary Trees](https://github.com/Sho372/LeetCode/blob/master/src/Tree/MergeTwoBinaryTrees_617.java) :cloud:
     - [104. Merge Two Binary Trees](https://github.com/Sho372/LeetCode/blob/master/src/Tree/MaximumDepthOfBinaryTree_104.java) :cloud:
-    
+    - [136. Merge Two Binary Trees](https://github.com/Sho372/LeetCode/blob/master/src/Tree/SingleNumber_136.java) :cloud:

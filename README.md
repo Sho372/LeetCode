@@ -7,7 +7,7 @@
 | Math | `0` |
 | Depth-first Search | `0` |
 | Binary Search | `0` |
-| Linked List | `0` |
+| Linked List | `1` |
 | Tree | `3` |
 | Binary Search Tree | `0` |
 | Hash Table | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(4/100)` → `Easy 4`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(5/100)` → `Easy 5`--`Medium 0`--`Hard 0`
 
 - :sunny: good
 - :cloud: soso
@@ -41,3 +41,7 @@
     - [136. Single Number](https://github.com/Sho372/LeetCode/blob/master/src/Tree/SingleNumber_136.java) :cloud:
 
 
+### [Linked List](https://github.com/Sho372/LeetCode/tree/master/src/LinkedList)
+
+- Easy
+    - [206. Reverse Linked List](https://github.com/Sho372/LeetCode/blob/master/src/Tree/ReverseLinkedList_206.java) :umbrella:

@@ -38,10 +38,10 @@
 ### [BitManipulation](https://github.com/Sho372/LeetCode/tree/master/src/BitManipulation)
 
 - Easy
-    - [136. Single Number](https://github.com/Sho372/LeetCode/blob/master/src/Tree/SingleNumber_136.java) :cloud:
+    - [136. Single Number](https://github.com/Sho372/LeetCode/blob/master/src/BitManipulation/SingleNumber_136.java) :cloud:
 
 
 ### [Linked List](https://github.com/Sho372/LeetCode/tree/master/src/LinkedList)
 
 - Easy
-    - [206. Reverse Linked List](https://github.com/Sho372/LeetCode/blob/master/src/Tree/ReverseLinkedList_206.java) :umbrella:
+    - [206. Reverse Linked List](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/ReverseLinkedList_206.java) :umbrella:

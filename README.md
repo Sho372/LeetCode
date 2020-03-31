@@ -15,14 +15,14 @@
 | Backtracking | `0` |
 | Greedy | `0` |
 | Bit Manipulation | `1` |
-| Two Pointers | `0` |
+| Two Pointers | `1` |
 | Heap | `0` |
 | Dynamic Programming | `0` |
 | other | `0` |
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(5/100)` → `Easy 5`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(6/100)` → `Easy 6`--`Medium 0`--`Hard 0`
 
 - :sunny: good
 - :cloud: soso
@@ -35,7 +35,7 @@
     - [104. Maximum Depth of BinaryTree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/MaximumDepthOfBinaryTree_104.java) :cloud:
     - [226. Invert Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/InvertBinaryTree_226) :cloud:
 
-### [BitManipulation](https://github.com/Sho372/LeetCode/tree/master/src/BitManipulation)
+### [Bit Manipulation](https://github.com/Sho372/LeetCode/tree/master/src/BitManipulation)
 
 - Easy
     - [136. Single Number](https://github.com/Sho372/LeetCode/blob/master/src/BitManipulation/SingleNumber_136.java) :cloud:
@@ -45,3 +45,8 @@
 
 - Easy
     - [206. Reverse Linked List](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/ReverseLinkedList_206.java) :umbrella:
+    
+### [Two Pointers](https://github.com/Sho372/LeetCode/tree/master/src/TwoPointers)
+
+- Easy
+    - [283. MoveZeroes](https://github.com/Sho372/LeetCode/blob/master/src/TwoPointers/MoveZeroes_283.java) :soso:

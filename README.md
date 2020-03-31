@@ -2,7 +2,7 @@
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `0` |
+| Array | `1` |
 | String | `0` |
 | Math | `0` |
 | Depth-first Search | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(6/100)` → `Easy 6`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(7/100)` → `Easy 7`--`Medium 0`--`Hard 0`
 
 - :sunny: good
 - :cloud: soso
@@ -49,4 +49,11 @@
 ### [Two Pointers](https://github.com/Sho372/LeetCode/tree/master/src/TwoPointers)
 
 - Easy
-    - [283. MoveZeroes](https://github.com/Sho372/LeetCode/blob/master/src/TwoPointers/MoveZeroes_283.java) :soso:
+    - [283. MoveZeroes](https://github.com/Sho372/LeetCode/blob/master/src/TwoPointers/MoveZeroes_283.java) :cloud:
+
+### [Array](https://github.com/Sho372/LeetCode/tree/master/src/TwoPointers)
+
+- Easy
+    - [169. Majority Element](https://github.com/Sho372/LeetCode/blob/master/src/Array/MajorityElement_169.java) :cloud:
+
+

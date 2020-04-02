@@ -2,7 +2,7 @@
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `1` |
+| Array | `2` |
 | String | `0` |
 | Math | `0` |
 | Depth-first Search | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(7/100)` → `Easy 7`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(8/100)` → `Easy 8`--`Medium 0`--`Hard 0`
 
 - :sunny: good
 - :cloud: soso
@@ -55,5 +55,5 @@
 
 - Easy
     - [169. Majority Element](https://github.com/Sho372/LeetCode/blob/master/src/Array/MajorityElement_169.java) :cloud:
-
+    - [448. Find All Numbers Disappeared in an Array](https://github.com/Sho372/LeetCode/blob/master/src/Array/FindAllNumbersDisappearedinanArray_448.java) :cloud:
 

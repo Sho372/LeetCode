@@ -7,8 +7,6 @@ public class MergeTwoSortedLists_21 {
     ListNode l2 = l1;
     ListNode l3 = new ListNode(1);
 
-
-
     // This is a change of l2's attribute. So l1's attribute is also changed.
     // Not change the reference of l2 to l1
     l2.next = l3;
@@ -20,6 +18,11 @@ public class MergeTwoSortedLists_21 {
     l2 = l3;
     System.out.printf("l1: %d\n", l1.val);
     System.out.printf("l2: %d\n", l2.val);
+
+    while (l1 != null) {
+      System.out.println(l1.val);
+      l1 = l1.next;
+    }
   }
 
   /**
@@ -34,13 +37,13 @@ public class MergeTwoSortedLists_21 {
   public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 
     if (l1 == null && l2 == null) {
-        return null;
+      return null;
     }
     if (l1 == null) {
-        return l2;
+      return l2;
     }
     if (l2 == null) {
-        return l1;
+      return l1;
     }
 
     ListNode result = new ListNode(0);
@@ -57,10 +60,10 @@ public class MergeTwoSortedLists_21 {
     }
 
     if (l1 != null) {
-        prev.next = l1;
+      prev.next = l1;
     }
     if (l2 != null) {
-        prev.next = l2;
+      prev.next = l2;
     }
     return result.next;
   }

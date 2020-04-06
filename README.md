@@ -17,16 +17,16 @@
 | Bit Manipulation | `1` |
 | Two Pointers | `1` |
 | Heap | `0` |
-| Dynamic Programming | `0` |
+| Dynamic Programming | `1` |
 | other | `0` |
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(9/100)` → `Easy 9`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(10/100)` → `Easy 10`--`Medium 0`--`Hard 0`
 
-- :sunny: good
-- :cloud: soso
-- :umbrella: bad
+- :sunny: Good
+- :cloud: Soso
+- :umbrella: Bad
 
 ### [Tree](https://github.com/Sho372/LeetCode/tree/master/src/Tree)
 
@@ -58,3 +58,9 @@
     - [169. Majority Element](https://github.com/Sho372/LeetCode/blob/master/src/Array/MajorityElement_169.java) :cloud:
     - [448. Find All Numbers Disappeared in an Array](https://github.com/Sho372/LeetCode/blob/master/src/Array/FindAllNumbersDisappearedinanArray_448.java) :cloud:
 
+### [Dynamic Programming](https://github.com/Sho372/LeetCode/tree/master/src/DynamicProgramming)
+
+- Easy
+    - [121. Best Time to Buy and Sell Stock](https://github.com/Sho372/LeetCode/blob/master/src/Array/BestTimeToBuyandSellStock_121) :umbrella:
+        - [Kadane’s Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
+        - [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem)

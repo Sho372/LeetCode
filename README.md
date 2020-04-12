@@ -17,12 +17,12 @@
 | Bit Manipulation | `1` |
 | Two Pointers | `1` |
 | Heap | `0` |
-| Dynamic Programming | `1` |
+| Dynamic Programming | `2` |
 | other | `0` |
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(11/100)` → `Easy 11`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(12/100)` → `Easy 12`--`Medium 0`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -33,8 +33,8 @@
 - Easy
     - [617. Merge Two Binary Trees](https://github.com/Sho372/LeetCode/blob/master/src/Tree/MergeTwoBinaryTrees_617.java) :cloud:
     - [104. Maximum Depth of BinaryTree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/MaximumDepthOfBinaryTree_104.java) :cloud:
-    - [226. Invert Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/InvertBinaryTree_226) :cloud:
-    - [543. Diameter of Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/DiameterOfBinaryTree_543) :umbrella:
+    - [226. Invert Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/InvertBinaryTree_226.java) :cloud:
+    - [543. Diameter of Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/DiameterOfBinaryTree_543.java) :umbrella:
 
 ### [Bit Manipulation](https://github.com/Sho372/LeetCode/tree/master/src/BitManipulation)
 
@@ -65,3 +65,4 @@
     - [121. Best Time to Buy and Sell Stock](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/BestTimeToBuyandSellStock_121.java) :umbrella:
         - [Kadane’s Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
         - [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+    - [70. Climbing Stairs](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/ClimbingStairs_70.java) :sunny:

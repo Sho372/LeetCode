@@ -8,7 +8,7 @@
 | Depth-first Search | `0` |
 | Binary Search | `0` |
 | Linked List | `2` |
-| Tree | `4` |
+| Tree | `5` |
 | Binary Search Tree | `0` |
 | Hash Table | `0` |
 | Stack | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(12/100)` → `Easy 12`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(13/100)` → `Easy 13`--`Medium 0`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -35,6 +35,7 @@
     - [104. Maximum Depth of BinaryTree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/MaximumDepthOfBinaryTree_104.java) :cloud:
     - [226. Invert Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/InvertBinaryTree_226.java) :cloud:
     - [543. Diameter of Binary Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/DiameterOfBinaryTree_543.java) :umbrella:
+    - [101. Symmetric Tree](https://github.com/Sho372/LeetCode/blob/master/src/Tree/SymmetricTree_101.java) :umbrella:
 
 ### [Bit Manipulation](https://github.com/Sho372/LeetCode/tree/master/src/BitManipulation)
 

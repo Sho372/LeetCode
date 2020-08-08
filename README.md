@@ -2,7 +2,7 @@
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `3` |
+| Array | `4` |
 | String | `0` |
 | Math | `0` |
 | Depth-first Search | `0` |
@@ -11,18 +11,18 @@
 | Tree | `5` |
 | Binary Search Tree | `0` |
 | Hash Table | `0` |
-| Stack | `0` |
+| Stack | `1` |
 | Backtracking | `0` |
 | Greedy | `0` |
 | Bit Manipulation | `1` |
 | Two Pointers | `1` |
 | Heap | `0` |
 | Dynamic Programming | `2` |
-| other | `0` |
+| Other | `0` |
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(14/100)` → `Easy 14`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(16/100)` → `Easy 16`--`Medium 0`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -49,6 +49,11 @@
     - [206. Reverse Linked List](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/ReverseLinkedList_206.java) :umbrella:
     - [21. Merge Two Sorted Lists](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/MergeTwoSortedLists_21.java) :umbrella:
     
+### [Stack](https://github.com/Sho372/LeetCode/tree/master/src/Stack)
+
+- Easy
+    - [155. Min Stack](https://github.com/Sho372/LeetCode/blob/master/src/Stack/MinStack_155.java) :sunny:
+    
 ### [Two Pointers](https://github.com/Sho372/LeetCode/tree/master/src/TwoPointers)
 
 - Easy
@@ -60,6 +65,7 @@
     - [169. Majority Element](https://github.com/Sho372/LeetCode/blob/master/src/Array/MajorityElement_169.java) :cloud:
     - [448. Find All Numbers Disappeared in an Array](https://github.com/Sho372/LeetCode/blob/master/src/Array/FindAllNumbersDisappearedinanArray_448.java) :cloud:
     - [53. Maximum Subarray](https://github.com/Sho372/LeetCode/blob/master/src/Array/MaximumSubarray_53.java) :cloud:
+    - [1. Two Sum](https://github.com/Sho372/LeetCode/blob/master/src/Array/TwoSum_1.java) :cloud:
 
 ### [Dynamic Programming](https://github.com/Sho372/LeetCode/tree/master/src/DynamicProgramming)
 

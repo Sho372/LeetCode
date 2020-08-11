@@ -10,6 +10,7 @@ public class FindKthBit_1545_review {
 
             for (int j = s.length()-1; j > -1 ; j--) {
                 int ss = (s.charAt(j) - '0') ^ 1;  // inverse with XOR ASCIIの0,1に変換
+                // NOT Use concat as String itself. Use append of StringBuilder instead of concat.
                 reverse.append(String.valueOf(ss));
                 if(s.length() - j > k) break; // It's not necessary to loop more than k times
             }

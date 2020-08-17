@@ -7,7 +7,7 @@
 | Math | `0` |
 | Depth-first Search | `0` |
 | Binary Search | `0` |
-| Linked List | `2` |
+| Linked List | `3` |
 | Tree | `5` |
 | Binary Search Tree | `0` |
 | Hash Table | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(16/100)` → `Easy 16`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(17/100)` → `Easy 17`--`Medium 0`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -48,6 +48,7 @@
 - Easy
     - [206. Reverse Linked List](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/ReverseLinkedList_206.java) :umbrella:
     - [21. Merge Two Sorted Lists](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/MergeTwoSortedLists_21.java) :umbrella:
+    - [160. IntersectionOfTwoLinkedLists](https://github.com/Sho372/LeetCode/blob/master/src/LinkedList/IntersectionOfTwoLinkedLists_160.java) :cloud:
     
 ### [Stack](https://github.com/Sho372/LeetCode/tree/master/src/Stack)
 

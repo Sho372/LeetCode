@@ -1,4 +1,4 @@
-package Contest.Week201;
+package Contest.Weekly201;
 
 public class FindKthBit_1545 {
     public char findKthBit(int n, int k) {

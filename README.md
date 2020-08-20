@@ -14,7 +14,7 @@
 | Stack | `1` |
 | Backtracking | `0` |
 | Greedy | `0` |
-| Bit Manipulation | `1` |
+| Bit Manipulation | `2` |
 | Two Pointers | `1` |
 | Heap | `0` |
 | Dynamic Programming | `2` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(17/100)` → `Easy 17`--`Medium 0`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(18/100)` → `Easy 17`--`Medium 1`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -41,7 +41,8 @@
 
 - Easy
     - [136. Single Number](https://github.com/Sho372/LeetCode/blob/master/src/BitManipulation/SingleNumber_136.java) :cloud:
-
+- Medium
+    - [338. Counting Bits](https://github.com/Sho372/LeetCode/blob/master/src/BitManipulation/CountingBits_338.java) :cloud:
 
 ### [Linked List](https://github.com/Sho372/LeetCode/tree/master/src/LinkedList)
 

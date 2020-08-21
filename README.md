@@ -13,7 +13,7 @@
 | Hash Table | `0` |
 | Stack | `1` |
 | Backtracking | `0` |
-| Greedy | `0` |
+| Greedy | `1` |
 | Bit Manipulation | `2` |
 | Two Pointers | `1` |
 | Heap | `0` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(18/100)` → `Easy 17`--`Medium 1`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(18/100)` → `Easy 17`--`Medium 2`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -76,3 +76,8 @@
         - [Kadane’s Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
         - [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
     - [70. Climbing Stairs](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/ClimbingStairs_70.java) :sunny:
+    
+### [Greedy](https://github.com/Sho372/LeetCode/tree/master/src/Greedy)
+
+- Easy
+    - [406. Queue Reconstrution by Height](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/BestTimeToBuyandSellStock_121.java) :umbrella:

@@ -11,18 +11,18 @@
 | Tree | `5` |
 | Binary Search Tree | `0` |
 | Hash Table | `0` |
-| Stack | `1` |
+| Stack | `3` |
 | Backtracking | `0` |
 | Greedy | `1` |
 | Bit Manipulation | `2` |
 | Two Pointers | `1` |
 | Heap | `0` |
-| Dynamic Programming | `2` |
+| Dynamic Programming | `3` |
 | Other | `0` |
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(18/100)` → `Easy 17`--`Medium 2`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(23/100)` → `Easy 20`--`Medium 3`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
@@ -55,7 +55,9 @@
 
 - Easy
     - [155. Min Stack](https://github.com/Sho372/LeetCode/blob/master/src/Stack/MinStack_155.java) :sunny:
-    
+    - [20. Valid Parentheses](https://github.com/Sho372/LeetCode/blob/master/src/Stack/ValidParentheses_20.java) :sunny:
+    - [739. Daily Temperatures](https://github.com/Sho372/LeetCode/blob/master/src/Stack/DailyTemperatures.java) :cloud:
+
 ### [Two Pointers](https://github.com/Sho372/LeetCode/tree/master/src/TwoPointers)
 
 - Easy
@@ -76,8 +78,9 @@
         - [Kadane’s Algorithm](https://hackernoon.com/kadanes-algorithm-explained-50316f4fd8a6)
         - [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
     - [70. Climbing Stairs](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/ClimbingStairs_70.java) :sunny:
+    - [198. House Robber](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/HouseRobber_198.java) :umbrella:
     
 ### [Greedy](https://github.com/Sho372/LeetCode/tree/master/src/Greedy)
 
-- Easy
+- Medium
     - [406. Queue Reconstrution by Height](https://github.com/Sho372/LeetCode/blob/master/src/DynamicProgramming/BestTimeToBuyandSellStock_121.java) :umbrella:

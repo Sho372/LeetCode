@@ -12,7 +12,7 @@
 | Binary Search Tree | `0` |
 | Hash Table | `0` |
 | Stack | `3` |
-| Backtracking | `0` |
+| Backtracking | `1` |
 | Greedy | `1` |
 | Bit Manipulation | `2` |
 | Two Pointers | `1` |
@@ -22,7 +22,7 @@
 
 ---
 
-## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(23/100)` → `Easy 20`--`Medium 3`--`Hard 0`
+## [Top 100 Liked Questions](https://leetcode.com/problemset/top-100-liked-questions/) `(24/100)` → `Easy 20`--`Medium 4`--`Hard 0`
 
 - :sunny: GOOD
 - :cloud: SOSO
